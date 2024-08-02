@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A263C6A-8694-4AE9-88C5-40662C67D86F}|SMS\\SMS.csproj|d:\\conestoga\\software programming - brasil\\student-management-system-group3\\sms\\mvvm\\viewmodels\\editstudentwindowvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A263C6A-8694-4AE9-88C5-40662C67D86F}|SMS\\SMS.csproj|solutionrelative:sms\\mvvm\\viewmodels\\editstudentwindowvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A263C6A-8694-4AE9-88C5-40662C67D86F}|SMS\\SMS.csproj|d:\\conestoga\\software programming - brasil\\student-management-system-group3\\sms\\themes\\dashboardtheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5A263C6A-8694-4AE9-88C5-40662C67D86F}|SMS\\SMS.csproj|solutionrelative:sms\\themes\\dashboardtheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A263C6A-8694-4AE9-88C5-40662C67D86F}|SMS\\SMS.csproj|d:\\conestoga\\software programming - brasil\\student-management-system-group3\\sms\\themes\\addstudenttheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5A263C6A-8694-4AE9-88C5-40662C67D86F}|SMS\\SMS.csproj|solutionrelative:sms\\themes\\addstudenttheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A263C6A-8694-4AE9-88C5-40662C67D86F}|SMS\\SMS.csproj|d:\\conestoga\\software programming - brasil\\student-management-system-group3\\sms\\usercontrols\\mytextbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5A263C6A-8694-4AE9-88C5-40662C67D86F}|SMS\\SMS.csproj|solutionrelative:sms\\usercontrols\\mytextbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A263C6A-8694-4AE9-88C5-40662C67D86F}|SMS\\SMS.csproj|d:\\conestoga\\software programming - brasil\\student-management-system-group3\\sms\\usercontrols\\myoption.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5A263C6A-8694-4AE9-88C5-40662C67D86F}|SMS\\SMS.csproj|solutionrelative:sms\\usercontrols\\myoption.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A263C6A-8694-4AE9-88C5-40662C67D86F}|SMS\\SMS.csproj|d:\\conestoga\\software programming - brasil\\student-management-system-group3\\sms\\migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A263C6A-8694-4AE9-88C5-40662C67D86F}|SMS\\SMS.csproj|solutionrelative:sms\\migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A263C6A-8694-4AE9-88C5-40662C67D86F}|SMS\\SMS.csproj|d:\\conestoga\\software programming - brasil\\student-management-system-group3\\sms\\mvvm\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A263C6A-8694-4AE9-88C5-40662C67D86F}|SMS\\SMS.csproj|solutionrelative:sms\\mvvm\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A263C6A-8694-4AE9-88C5-40662C67D86F}|SMS\\SMS.csproj|d:\\conestoga\\software programming - brasil\\student-management-system-group3\\sms\\mvvm\\viewmodels\\mainwindowvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A263C6A-8694-4AE9-88C5-40662C67D86F}|SMS\\SMS.csproj|solutionrelative:sms\\mvvm\\viewmodels\\mainwindowvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A263C6A-8694-4AE9-88C5-40662C67D86F}|SMS\\SMS.csproj|d:\\conestoga\\software programming - brasil\\student-management-system-group3\\sms\\mvvm\\viewmodels\\messagewindowvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A263C6A-8694-4AE9-88C5-40662C67D86F}|SMS\\SMS.csproj|solutionrelative:sms\\mvvm\\viewmodels\\messagewindowvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A263C6A-8694-4AE9-88C5-40662C67D86F}|SMS\\SMS.csproj|d:\\conestoga\\software programming - brasil\\student-management-system-group3\\sms\\mvvm\\views\\splashscreenwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5A263C6A-8694-4AE9-88C5-40662C67D86F}|SMS\\SMS.csproj|solutionrelative:sms\\mvvm\\views\\splashscreenwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DashboardTheme.xaml",
+              "DocumentMoniker": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\SMS\\Themes\\DashboardTheme.xaml",
+              "RelativeDocumentMoniker": "SMS\\Themes\\DashboardTheme.xaml",
+              "ToolTip": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\SMS\\Themes\\DashboardTheme.xaml",
+              "RelativeToolTip": "SMS\\Themes\\DashboardTheme.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-01T00:14:32.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyTextBox.xaml",
+              "DocumentMoniker": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\SMS\\UserControls\\MyTextBox.xaml",
+              "RelativeDocumentMoniker": "SMS\\UserControls\\MyTextBox.xaml",
+              "ToolTip": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\SMS\\UserControls\\MyTextBox.xaml",
+              "RelativeToolTip": "SMS\\UserControls\\MyTextBox.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-01T00:14:19.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyOption.xaml",
+              "DocumentMoniker": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\SMS\\UserControls\\MyOption.xaml",
+              "RelativeDocumentMoniker": "SMS\\UserControls\\MyOption.xaml",
+              "ToolTip": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\SMS\\UserControls\\MyOption.xaml",
+              "RelativeToolTip": "SMS\\UserControls\\MyOption.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-01T00:14:17.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SplashScreenWindow.xaml",
+              "DocumentMoniker": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\SMS\\MVVM\\Views\\SplashScreenWindow.xaml",
+              "RelativeDocumentMoniker": "SMS\\MVVM\\Views\\SplashScreenWindow.xaml",
+              "ToolTip": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\SMS\\MVVM\\Views\\SplashScreenWindow.xaml",
+              "RelativeToolTip": "SMS\\MVVM\\Views\\SplashScreenWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-31T23:37:51.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MessageWindowVM.cs",
+              "DocumentMoniker": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\SMS\\MVVM\\ViewModels\\MessageWindowVM.cs",
+              "RelativeDocumentMoniker": "SMS\\MVVM\\ViewModels\\MessageWindowVM.cs",
+              "ToolTip": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\SMS\\MVVM\\ViewModels\\MessageWindowVM.cs",
+              "RelativeToolTip": "SMS\\MVVM\\ViewModels\\MessageWindowVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T23:37:35.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EditStudentWindowVM.cs",
+              "DocumentMoniker": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\SMS\\MVVM\\ViewModels\\EditStudentWindowVM.cs",
+              "RelativeDocumentMoniker": "SMS\\MVVM\\ViewModels\\EditStudentWindowVM.cs",
+              "ToolTip": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\SMS\\MVVM\\ViewModels\\EditStudentWindowVM.cs",
+              "RelativeToolTip": "SMS\\MVVM\\ViewModels\\EditStudentWindowVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T23:36:48.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddStudentTheme.xaml",
+              "DocumentMoniker": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\SMS\\Themes\\AddStudentTheme.xaml",
+              "RelativeDocumentMoniker": "SMS\\Themes\\AddStudentTheme.xaml",
+              "ToolTip": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\SMS\\Themes\\AddStudentTheme.xaml",
+              "RelativeToolTip": "SMS\\Themes\\AddStudentTheme.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-01T00:14:29.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindowVM.cs",
+              "DocumentMoniker": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\SMS\\MVVM\\ViewModels\\MainWindowVM.cs",
+              "RelativeDocumentMoniker": "SMS\\MVVM\\ViewModels\\MainWindowVM.cs",
+              "ToolTip": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\SMS\\MVVM\\ViewModels\\MainWindowVM.cs",
+              "RelativeToolTip": "SMS\\MVVM\\ViewModels\\MainWindowVM.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T23:37:02.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\SMS\\MVVM\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "SMS\\MVVM\\Models\\Student.cs",
+              "ToolTip": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\SMS\\MVVM\\Models\\Student.cs",
+              "RelativeToolTip": "SMS\\MVVM\\Models\\Student.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T23:35:44.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\SMS\\Migrations\\DataContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "SMS\\Migrations\\DataContextModelSnapshot.cs",
+              "ToolTip": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\SMS\\Migrations\\DataContextModelSnapshot.cs",
+              "RelativeToolTip": "SMS\\Migrations\\DataContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T23:35:22.928Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

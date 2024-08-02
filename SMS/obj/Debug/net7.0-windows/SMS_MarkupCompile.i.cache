@@ -1,0 +1,20 @@
+﻿SMS
+1.0.0.0
+
+winexe
+C#
+.cs
+D:\Conestoga\Software programming - brasil\Student-Management-System-Group3\SMS\obj\Debug\net7.0-windows\
+SMS
+none
+false
+TRACE;DEBUG;NET;NET7_0;NETCOREAPP
+D:\Conestoga\Software programming - brasil\Student-Management-System-Group3\SMS\App.xaml
+15-744447601
+41621721606
+26-1909786882
+221-2138901793
+MainWindow.xaml;MVVM\Views\AddStudWinow.xaml;MVVM\Views\EditStudentWindow.xaml;MVVM\Views\MessageWindow.xaml;MVVM\Views\SplashScreenWindow.xaml;MVVM\Views\SucessMessageWindow.xaml;MVVM\Views\UserGuides\UserGuideWindow.xaml;MVVM\Views\UserGuides\UserGuideWindow2.xaml;MVVM\Views\UserGuides\UserGuideWindow3.xaml;MVVM\Views\UserGuides\UserGuideWindow4.xaml;MVVM\Views\WarningMessageWindow.xaml;Themes\AddStudentTheme.xaml;Themes\DashboardTheme.xaml;UserControls\MyOption.xaml;UserControls\MyTextBox.xaml;
+
+True
+

@@ -1,0 +1,13 @@
+<Window x:Class="StudentPortal.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Student Management System" Height="450" Width="800">
+    <Grid>
+        <StackPanel>
+            <Button Content="Add Student" Command="{Binding NavigateToAddStudentCommand}" />
+            <Button Content="View Students" Command="{Binding NavigateToViewStudentsCommand}" />
+            <Button Content="Add Attendance" Command="{Binding NavigateToAddAttendanceCommand}" />
+            <Button Content="View Attendance" Command="{Binding NavigateToViewAttendanceCommand}" />
+        </StackPanel>
+    </Grid>
+</Window>
