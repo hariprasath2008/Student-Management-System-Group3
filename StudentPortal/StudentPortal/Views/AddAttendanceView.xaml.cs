@@ -4,7 +4,7 @@ namespace StudentPortal.Views
 {
     public partial class AddAttendanceView : Window
     {
-        public AddStudentView()
+        public AddAttendanceView()
         {
             InitializeComponent();
         }

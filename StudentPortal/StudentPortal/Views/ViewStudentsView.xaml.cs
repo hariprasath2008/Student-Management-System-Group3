@@ -3,7 +3,7 @@ namespace StudentPortal.Views
 {
     public partial class ViewStudentsView : Window
     {
-        public ViewAttendanceView()
+        public ViewStudentsView()
         {
             InitializeComponent();
         }

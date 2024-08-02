@@ -1,4 +1,5 @@
-﻿using StudentPortal.Models;
+﻿using StudentPortal.Data;
+using StudentPortal.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,29 +8,57 @@ namespace StudentPortal.Services
 {
     public static class Database
     {
-        private static List<Student> Students { get; } = new List<Student>();
-        private static List<Attendance> AttendanceRecords { get; } = new List<Attendance>();
+                 public static void AddStudent(Student student)
+            {
+                using (var context = new StudentPortalDbContext())
+                {
+                    context.Students.Add(student);
+                    context.SaveChanges();
+                }
+            }
 
-        public static void AddStudent(Student student)
-        {
-            student.Id = Students.Count + 1;
-            Students.Add(student);
-        }
+            public static List<Student> GetAllStudents()
+            {
+                using (var context = new StudentPortalDbContext())
+                {
+                    return context.Students.ToList();
+                }
+            }
 
-        public static List<Student> GetAllStudents()
-        {
-            return Students;
-        }
+            public static void UpdateStudent(Student student)
+            {
+                using (var context = new StudentPortalDbContext())
+                {
+                    context.Students.Update(student);
+                    context.SaveChanges();
+                }
+            }
 
-        public static void AddAttendance(Attendance attendance)
-        {
-            attendance.Id = AttendanceRecords.Count + 1;
-            AttendanceRecords.Add(attendance);
-        }
+            public static void DeleteStudent(Student student)
+            {
+                using (var context = new StudentPortalDbContext())
+                {
+                    context.Students.Remove(student);
+                    context.SaveChanges();
+                }
+            }
 
-        public static List<Attendance> GetAllAttendance()
-        {
-            return AttendanceRecords;
+            public static void AddAttendance(Attendance attendance)
+            {
+                using (var context = new StudentPortalDbContext())
+                {
+                    context.AttendanceRecords.Add(attendance);
+                    context.SaveChanges();
+                }
+            }
+
+            public static List<Attendance> GetAllAttendance()
+            {
+                using (var context = new StudentPortalDbContext())
+                {
+                    return context.AttendanceRecords.ToList();
+                }
+            }
         }
     }
-}
+

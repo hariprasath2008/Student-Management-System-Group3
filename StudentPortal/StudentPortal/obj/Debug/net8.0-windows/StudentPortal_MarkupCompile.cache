@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 D:\Conestoga\Software programming - brasil\Student-Management-System-Group3\StudentPortal\StudentPortal\App.xaml
-51715531826
+61981756670
 
-18345547968
-198-1509178875
-MainWindow.xaml;Views\AddAttendanceView.xaml;Views\AddStudentView.xaml;Views\ViewAttendanceView.xaml;Views\ViewStudentsView.xaml;
+201272006127
+21685180731
+MainWindow.xaml;Views\AddAttendanceView.xaml;Views\AddStudentView.xaml;Views\EditStudentView.xaml;Views\ViewAttendanceView.xaml;Views\ViewStudentsView.xaml;
 
 False
 

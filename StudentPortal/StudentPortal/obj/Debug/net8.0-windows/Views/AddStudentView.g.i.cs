@@ -52,7 +52,7 @@ namespace StudentPortal.Views {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/StudentPortal;component/views/addstudentview.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/StudentPortal;V1.0.0.0;component/views/addstudentview.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Views\AddStudentView.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

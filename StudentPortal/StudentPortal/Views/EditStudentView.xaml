@@ -1,0 +1,16 @@
+<Window x:Class="StudentPortal.Views.EditStudentView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Edit Student" Height="300" Width="400">
+    <Grid>
+        <StackPanel Margin="20">
+            <Label Content="Name:" />
+            <TextBox Text="{Binding Name}" />
+            <Label Content="Email:" />
+            <TextBox Text="{Binding Email}" />
+            <Label Content="Date of Birth:" />
+            <DatePicker SelectedDate="{Binding DateOfBirth}" />
+            <Button Content="Save Changes" Command="{Binding SaveChangesCommand}" Margin="10" />
+        </StackPanel>
+    </Grid>
+</Window>

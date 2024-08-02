@@ -1,4 +1,8 @@
 ﻿using System.Windows.Input;
+using StudentPortal.Views;
+using StudentPortal.MVVM.ViewModels;
+
+using StudentPortal;
 
 namespace StudentPortal.MVVM.ViewModels
 {
@@ -19,7 +23,7 @@ namespace StudentPortal.MVVM.ViewModels
 
         private void NavigateToAddStudent()
         {
-            var addStudentView = new Views.AddStudentView     
+            var addStudentView = new AddStudentView
             {
                 DataContext = new AddStudentViewModel()
             };
@@ -28,7 +32,7 @@ namespace StudentPortal.MVVM.ViewModels
 
         private void NavigateToViewStudents()
         {
-            var viewStudentsView = new Views.ViewStudentsView
+            var viewStudentsView = new ViewStudentsView
             {
                 DataContext = new ViewStudentsViewModel()
             };
@@ -37,7 +41,7 @@ namespace StudentPortal.MVVM.ViewModels
 
         private void NavigateToAddAttendance()
         {
-            var addAttendanceView = new Views.AddAttendanceView
+            var addAttendanceView = new AddAttendanceView
             {
                 DataContext = new AddAttendanceViewModel()
             };
@@ -46,7 +50,7 @@ namespace StudentPortal.MVVM.ViewModels
 
         private void NavigateToViewAttendance()
         {
-            var viewAttendanceView = new Views.ViewAttendanceView
+            var viewAttendanceView = new ViewAttendanceView
             {
                 DataContext = new ViewAttendanceViewModel()
             };

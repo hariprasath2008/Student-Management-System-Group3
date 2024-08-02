@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\StudentPortal\\StudentPortal\\Views\\AddAttendanceView.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudentPortal\\StudentPortal\\Views\\AddAttendanceView.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5A263C6A-8694-4AE9-88C5-40662C67D86F}|SMS\\SMS.csproj|d:\\conestoga\\software programming - brasil\\student-management-system-group3\\sms\\mvvm\\viewmodels\\editstudentwindowvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A263C6A-8694-4AE9-88C5-40662C67D86F}|SMS\\SMS.csproj|solutionrelative:sms\\mvvm\\viewmodels\\editstudentwindowvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -50,11 +54,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "AddAttendanceView.xaml.cs",
+              "DocumentMoniker": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\StudentPortal\\StudentPortal\\Views\\AddAttendanceView.xaml.cs",
+              "RelativeDocumentMoniker": "StudentPortal\\StudentPortal\\Views\\AddAttendanceView.xaml.cs",
+              "ToolTip": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\StudentPortal\\StudentPortal\\Views\\AddAttendanceView.xaml.cs",
+              "RelativeToolTip": "StudentPortal\\StudentPortal\\Views\\AddAttendanceView.xaml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAQAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T17:55:20.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "DashboardTheme.xaml",
               "DocumentMoniker": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\SMS\\Themes\\DashboardTheme.xaml",
               "RelativeDocumentMoniker": "SMS\\Themes\\DashboardTheme.xaml",
@@ -65,7 +82,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "MyTextBox.xaml",
               "DocumentMoniker": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\SMS\\UserControls\\MyTextBox.xaml",
               "RelativeDocumentMoniker": "SMS\\UserControls\\MyTextBox.xaml",
@@ -76,7 +93,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "MyOption.xaml",
               "DocumentMoniker": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\SMS\\UserControls\\MyOption.xaml",
               "RelativeDocumentMoniker": "SMS\\UserControls\\MyOption.xaml",
@@ -87,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "SplashScreenWindow.xaml",
               "DocumentMoniker": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\SMS\\MVVM\\Views\\SplashScreenWindow.xaml",
               "RelativeDocumentMoniker": "SMS\\MVVM\\Views\\SplashScreenWindow.xaml",
@@ -98,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "MessageWindowVM.cs",
               "DocumentMoniker": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\SMS\\MVVM\\ViewModels\\MessageWindowVM.cs",
               "RelativeDocumentMoniker": "SMS\\MVVM\\ViewModels\\MessageWindowVM.cs",
@@ -110,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "EditStudentWindowVM.cs",
               "DocumentMoniker": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\SMS\\MVVM\\ViewModels\\EditStudentWindowVM.cs",
               "RelativeDocumentMoniker": "SMS\\MVVM\\ViewModels\\EditStudentWindowVM.cs",
@@ -123,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "AddStudentTheme.xaml",
               "DocumentMoniker": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\SMS\\Themes\\AddStudentTheme.xaml",
               "RelativeDocumentMoniker": "SMS\\Themes\\AddStudentTheme.xaml",
@@ -134,7 +151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "MainWindowVM.cs",
               "DocumentMoniker": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\SMS\\MVVM\\ViewModels\\MainWindowVM.cs",
               "RelativeDocumentMoniker": "SMS\\MVVM\\ViewModels\\MainWindowVM.cs",
@@ -146,7 +163,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Student.cs",
               "DocumentMoniker": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\SMS\\MVVM\\Models\\Student.cs",
               "RelativeDocumentMoniker": "SMS\\MVVM\\Models\\Student.cs",
@@ -158,7 +175,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "DataContextModelSnapshot.cs",
               "DocumentMoniker": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\SMS\\Migrations\\DataContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "SMS\\Migrations\\DataContextModelSnapshot.cs",

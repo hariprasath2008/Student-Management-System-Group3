@@ -3,12 +3,19 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="View Students" Height="400" Width="600">
     <Grid>
-        <DataGrid ItemsSource="{Binding Students}" AutoGenerateColumns="False" Margin="20">
-            <DataGrid.Columns>
-                <DataGridTextColumn Header="Name" Binding="{Binding Name}" />
-                <DataGridTextColumn Header="Email" Binding="{Binding Email}" />
-                <DataGridTextColumn Header="Date of Birth" Binding="{Binding DateOfBirth}" />
-            </DataGrid.Columns>
-        </DataGrid>
+        <StackPanel Margin="20">
+            <DataGrid ItemsSource="{Binding Students}" SelectedItem="{Binding SelectedStudent}" AutoGenerateColumns="False" Margin="10">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="ID" Binding="{Binding Id}" />
+                    <DataGridTextColumn Header="Name" Binding="{Binding Name}" />
+                    <DataGridTextColumn Header="Email" Binding="{Binding Email}" />
+                    <DataGridTextColumn Header="Date of Birth" Binding="{Binding DateOfBirth}" />
+                </DataGrid.Columns>
+            </DataGrid>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="10">
+                <Button Content="Edit" Command="{Binding EditStudentCommand}" Margin="5"/>
+                <Button Content="Delete" Command="{Binding DeleteStudentCommand}" Margin="5"/>
+            </StackPanel>
+        </StackPanel>
     </Grid>
 </Window>
