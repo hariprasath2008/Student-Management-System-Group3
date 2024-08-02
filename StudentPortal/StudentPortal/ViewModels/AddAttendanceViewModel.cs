@@ -1,6 +1,7 @@
 ﻿
 using System;
 using System.Windows.Input;
+using StudentPortal.Models;
 using StudentPortal.Services;
 
 namespace StudentPortal.MVVM.ViewModels
@@ -42,7 +43,8 @@ namespace StudentPortal.MVVM.ViewModels
             {
                 StudentId = StudentId,
                 Date = Date,
-                Present = Present
+                IsPresent = Present
+                
             });
         }
     }
